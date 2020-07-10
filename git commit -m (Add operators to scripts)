@@ -1,0 +1,29 @@
+[33mcommit 69df154df4564ee03a7f41d1579665a1368d6e3f[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Ty Huard <thuard06@gmail.com>
+Date:   Thu Jul 9 20:14:18 2020 -0700
+
+    Add new html.
+
+[33mcommit 5fc7ba6a19e5514ce31df0bea55d125eb5cf1e08[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Ty Huard <thuard06@gmail.com>
+Date:   Thu Jul 2 20:43:10 2020 -0700
+
+    add edits to html, js scripts
+
+[33mcommit 1a4c8e2272877ee3d3bbbb5211e3030a2cd1b863[m[33m ([m[1;31mth/master[m[33m)[m
+Author: Ty Huard <thuard06@gmail.com>
+Date:   Tue Jun 23 20:46:42 2020 -0700
+
+    Add Farenheit to Celcius function
+
+[33mcommit 64f621585806c1cb8cb4c7a02d466bebf53303a4[m
+Author: Ty Huard <thuard06@gmail.com>
+Date:   Tue Jun 23 20:34:18 2020 -0700
+
+    Set up index.html.
+
+[33mcommit 844a33cf5d17765e508a4832d09bfdbd94cde122[m
+Author: Ty Huard <thuard06@gmail.com>
+Date:   Tue Jun 23 20:17:18 2020 -0700
+
+    Add functions add, subtract, multipy, divide.
